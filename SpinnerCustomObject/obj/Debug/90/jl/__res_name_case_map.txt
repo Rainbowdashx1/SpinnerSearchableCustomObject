@@ -1,0 +1,3 @@
+values/strings.xml;values/strings.xml
+layout/Spinner.xml;layout/spinner.xml
+layout/SpinnerElement.xml;layout/spinnerelement.xml
