@@ -2,7 +2,7 @@
 Xamarin android spinner searchable
 
 [![Version](https://img.shields.io/nuget/v/SpinnerSearchableCustomObject?style=plastic)](https://www.nuget.org/packages/SpinnerSearchableCustomObject/)
-[![License](https://img.shields.io/github/license/Rainbowdashx1/SpinnerSearchableCustomObject)](https://github.com/Rainbowdashx1/SpinnerSearchableCustomObject/blob/master/LICENSE.md)
+[![License](https://img.shields.io/github/license/Rainbowdashx1/SpinnerSearchableCustomObject?style=plastic)](https://github.com/Rainbowdashx1/SpinnerSearchableCustomObject/blob/master/LICENSE.md)
 
 # Uso
 Hay dos objetos con los que podemos trabajar
