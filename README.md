@@ -1,6 +1,8 @@
 # SpinnerSearchableCustomObject
 Xamarin android spinner searchable
 
+[![Version](https://img.shields.io/nuget/v/SpinnerSearchableCustomObject?style=plastic)](https://www.nuget.org/packages/SpinnerSearchableCustomObject/)
+
 # Uso
 Hay dos objetos con los que podemos trabajar
 
