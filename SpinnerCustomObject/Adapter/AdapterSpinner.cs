@@ -15,12 +15,14 @@ namespace SpinnerCustomObject.Adapter
         private Filter modelFilter;
         private string TextoView;
         private string TextColor;
-        public AdapterSpinner(Android.Content.Context context, IList modelsArrayListparam, string TextColor = "#000000")
+        private Android.Graphics.Color TextColorSpinner;
+        public AdapterSpinner(Android.Content.Context context, IList modelsArrayListparam, Android.Graphics.Color TextColorSpinner, string TextColor = "#000000")
         {
             this.context = context;
             this.modelsArrayListparam = modelsArrayListparam;
             this.OrimodelsArrayListparam = modelsArrayListparam;
             this.TextColor = TextColor;
+            this.TextColorSpinner = TextColorSpinner;
             foreach (object obj in modelsArrayListparam)
             {
                 foreach (PropertyInfo Property in obj.GetType().GetProperties())
@@ -81,6 +83,7 @@ namespace SpinnerCustomObject.Adapter
             Texto = rowView.FindViewById<TextView>(Resource.Id.TextoSpinnerElement);
             Texto.SetTextColor(Android.Graphics.Color.ParseColor(TextColor));
             Texto.Text = modelsArrayListparam[position].GetType().GetProperty(TextoView).GetValue(modelsArrayListparam[position], null).ToString();
+            Texto.SetTextColor(TextColorSpinner);
             return rowView;
         }
     }

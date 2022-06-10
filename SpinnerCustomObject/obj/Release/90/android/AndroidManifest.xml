@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="SpinnerCustomObject.SpinnerCustomObject">
-  <uses-sdk android:minSdkVersion="28" android:targetSdkVersion="28" />
-  <application android:name="android.app.Application" android:allowBackup="true" android:label="SpinnerCustomObject.SpinnerCustomObject">
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="SpinnerCustomObject.SpinnerCustomObject.mono.MonoRuntimeProvider.__mono_init__" />
-  </application>
-</manifest>

@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHubMIT\\SpinnerSearchableCustomObject\\SpinnerCustomObject\\SpinnerCustomObject.csproj": {}
+    "C:\\Users\\Pablo\\source\\repos\\SpinnerSearchableCustomObject\\SpinnerCustomObject\\SpinnerCustomObject.csproj": {}
   },
   "projects": {
-    "C:\\GitHubMIT\\SpinnerSearchableCustomObject\\SpinnerCustomObject\\SpinnerCustomObject.csproj": {
+    "C:\\Users\\Pablo\\source\\repos\\SpinnerSearchableCustomObject\\SpinnerCustomObject\\SpinnerCustomObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHubMIT\\SpinnerSearchableCustomObject\\SpinnerCustomObject\\SpinnerCustomObject.csproj",
+        "projectUniqueName": "C:\\Users\\Pablo\\source\\repos\\SpinnerSearchableCustomObject\\SpinnerCustomObject\\SpinnerCustomObject.csproj",
         "projectName": "SpinnerCustomObject",
-        "projectPath": "C:\\GitHubMIT\\SpinnerSearchableCustomObject\\SpinnerCustomObject\\SpinnerCustomObject.csproj",
-        "packagesPath": "C:\\Users\\x\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHubMIT\\SpinnerSearchableCustomObject\\SpinnerCustomObject\\obj\\",
+        "projectPath": "C:\\Users\\Pablo\\source\\repos\\SpinnerSearchableCustomObject\\SpinnerCustomObject\\SpinnerCustomObject.csproj",
+        "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pablo\\source\\repos\\SpinnerSearchableCustomObject\\SpinnerCustomObject\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\x\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,7 +29,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\x\\Desktop": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +43,10 @@
             "Xamarin.Android.Support.v7.AppCompat": {
               "target": "Package",
               "version": "[28.0.0.3, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
             }
           }
         }

@@ -1,3 +1,5 @@
 values/strings.xml;values/strings.xml
 layout/Spinner.xml;layout/spinner.xml
 layout/SpinnerElement.xml;layout/spinnerelement.xml
+values/attrs.xml;values/attrs.xml
+values/colors.xml;values/colors.xml

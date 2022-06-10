@@ -11,12 +11,17 @@ namespace SpinnerCustomObject.Component
     public class SpinnerCustomV4 : Android.Support.V4.App.DialogFragment
     {
         private IList ObjData;
+        private LinearLayout ContentSpinner;
         private ListView Lista;
         private SearchView search;
         private AdapterSpinner adapter;
-        public SpinnerCustomV4(IList ObjData)
+        private Android.Graphics.Color TextColorSpinner;
+        private Android.Graphics.Color BackGroundColorSpinner;
+        public SpinnerCustomV4(IList ObjData, Android.Graphics.Color BackGroundColorSpinner, Android.Graphics.Color TextColorSpinner)
         {
             this.ObjData = ObjData;
+            this.BackGroundColorSpinner = BackGroundColorSpinner;
+            this.TextColorSpinner = TextColorSpinner;
         }
         public class DialogEventArgs : EventArgs
         {
@@ -40,12 +45,22 @@ namespace SpinnerCustomObject.Component
         }
         public void Elementos()
         {
-            adapter = new AdapterSpinner(Context, ObjData);
+            ContentSpinner = View.FindViewById<LinearLayout>(Resource.Id.ContentSpinner);
+            adapter = new AdapterSpinner(Context, ObjData, TextColorSpinner);
             Lista = View.FindViewById<ListView>(Resource.Id.listItems);
             search = View.FindViewById<SearchView>(Resource.Id.search);
             Lista.Adapter = adapter;
             Lista.ItemClick += Lista_ItemClick;
             search.QueryTextChange += Search_QueryTextChange;
+
+            var id = search.Context.Resources.GetIdentifier("search_src_text", "id", "android");
+            var searchEditText = search.FindViewById<EditText>(id);
+            var id2 = search.Context.Resources.GetIdentifier("search_mag_icon", "id", "android");
+            var IconColorsearch = search.FindViewById<ImageView>(id2);
+
+            IconColorsearch.SetColorFilter(TextColorSpinner);
+            searchEditText.SetTextColor(TextColorSpinner);
+            ContentSpinner.SetBackgroundColor(BackGroundColorSpinner);
         }
         private void Search_QueryTextChange(object sender, SearchView.QueryTextChangeEventArgs e)
         {

@@ -1,0 +1,1 @@
+<resources><declare-styleable name="SpinnerSearchableCustomObject"><attr name="TextColorSpinner" format="color" /><attr name="BackGroundColorSpinner" format="color" /></declare-styleable></resources>
