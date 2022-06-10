@@ -31,8 +31,8 @@ Código de ejemplo (compatible con proyectos androidx) :
 </RelativeLayout>
 ```
 ### Instancia de spinner
-`SpinnerCustomObj` una vez declarado en xml(vista) se puede instansear como cualquier otro componente android 
-Ejemplo : 
+`SpinnerCustomObj` una vez declarado en xml(vista) se puede instanciar como cualquier otro componente android 
+Ejemplo: 
 ```csharp
 public class Activity1 : AppCompatActivity
 {
@@ -46,7 +46,7 @@ public class Activity1 : AppCompatActivity
 }
 ```
 ### Agregar datos a spinner
-Puede usar el metodo `SetData` para agregar un `List` del objeto que necesite mostrar en el spinner, como se muestra en el codigo acontinuacion :
+Puede usar el método `SetData` para agregar un `List` del objeto que necesite mostrar en el spinner, como se muestra en el código a continuación:
 
 Primero creare un objeto 
 ```csharp
@@ -56,7 +56,7 @@ namespace Test
 {
     public class Testobj
     {
-        [Texto] // Muy imporante el atributo "Texto"
+        [Texto] // Muy importante  el atributo "Texto"
         public string Dato1 { get; set; } // Esta propiedad se usara mostrar en el spinner
         public string Dato2 { get; set; }
         public string Dato3 { get; set; }
@@ -89,7 +89,7 @@ public class Activity1 : AppCompatActivity
 }
 ```
 
-### Perzonalizacion del panel spinner
+### Personalización del panel spinner
 
 * `TextColorSpinner` Da color al texto mostrado en el spinner(por defecto negro)
 * `BackGroundColorSpinner` cambia el color de fondo del panel spinner(por defecto blanco).
