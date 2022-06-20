@@ -13,12 +13,12 @@ public class MonoPackageManager_Resources {
 		"Xamarin.AndroidX.Lifecycle.ViewModel.dll",
 		"Xamarin.AndroidX.Loader.dll",
 		"Xamarin.Google.Android.Material.dll",
-		"SpinnerCustomObject.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.SavedState.dll",
 		"Xamarin.Essentials.dll",
 		"Xamarin.Google.Guava.ListenableFuture.dll",
 		"Demo.dll",
+		"SpinnerCustomObject.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

@@ -12,7 +12,6 @@ color;obj\Release\110\res\values\colors.xml
 color;obj\Release\110\res\values\ic_launcher_background.xml
 com.google.android.material.appbar.AppBarLayout;obj\Release\110\res\layout\activity_main.xml
 com.google.android.material.floatingactionbutton.FloatingActionButton;obj\Release\110\res\layout\activity_main.xml
-crc6431d683e69a9f25c8.SpinnerCustomObjX;obj\Release\110\res\layout\content_main.xml
 declare-styleable;C:\Users\Pablo\source\repos\SpinnerSearchableCustomObject\Demo\obj\Release\110\lp\0\jl\res\values\attrs.xml
 dimen;obj\Release\110\res\values\dimens.xml
 external-cache-path;C:\Users\Pablo\source\repos\SpinnerSearchableCustomObject\Demo\obj\Release\110\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml

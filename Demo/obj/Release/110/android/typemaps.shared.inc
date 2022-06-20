@@ -25,26 +25,26 @@
 	.section	.rodata.map_aname.4,"aMS",@progbits,1
 	.type	.L.map_aname.4, @object
 .L.map_aname.4:
-	.asciz	"SpinnerCustomObject"
-	.size	.L.map_aname.4, 20
+	.asciz	"Demo"
+	.size	.L.map_aname.4, 5
 
 	.section	.rodata.map_aname.5,"aMS",@progbits,1
 	.type	.L.map_aname.5, @object
 .L.map_aname.5:
-	.asciz	"Xamarin.Essentials"
-	.size	.L.map_aname.5, 19
+	.asciz	"SpinnerCustomObject"
+	.size	.L.map_aname.5, 20
 
 	.section	.rodata.map_aname.6,"aMS",@progbits,1
 	.type	.L.map_aname.6, @object
 .L.map_aname.6:
-	.asciz	"Xamarin.AndroidX.Fragment"
-	.size	.L.map_aname.6, 26
+	.asciz	"Xamarin.Essentials"
+	.size	.L.map_aname.6, 19
 
 	.section	.rodata.map_aname.7,"aMS",@progbits,1
 	.type	.L.map_aname.7, @object
 .L.map_aname.7:
-	.asciz	"Mono.Android"
-	.size	.L.map_aname.7, 13
+	.asciz	"Xamarin.AndroidX.Fragment"
+	.size	.L.map_aname.7, 26
 
 	.section	.rodata.map_aname.8,"aMS",@progbits,1
 	.type	.L.map_aname.8, @object
@@ -73,20 +73,20 @@
 	.section	.rodata.map_aname.12,"aMS",@progbits,1
 	.type	.L.map_aname.12, @object
 .L.map_aname.12:
-	.asciz	"Xamarin.AndroidX.CustomView"
-	.size	.L.map_aname.12, 28
+	.asciz	"Mono.Android"
+	.size	.L.map_aname.12, 13
 
 	.section	.rodata.map_aname.13,"aMS",@progbits,1
 	.type	.L.map_aname.13, @object
 .L.map_aname.13:
-	.asciz	"Xamarin.Google.Android.Material"
-	.size	.L.map_aname.13, 32
+	.asciz	"Xamarin.AndroidX.CustomView"
+	.size	.L.map_aname.13, 28
 
 	.section	.rodata.map_aname.14,"aMS",@progbits,1
 	.type	.L.map_aname.14, @object
 .L.map_aname.14:
-	.asciz	"Demo"
-	.size	.L.map_aname.14, 5
+	.asciz	"Xamarin.Google.Android.Material"
+	.size	.L.map_aname.14, 32
 
 	.section	.rodata.map_aname.15,"aMS",@progbits,1
 	.type	.L.map_aname.15, @object

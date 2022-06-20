@@ -4,5 +4,6 @@
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
     <SelectedDevice>Android Emulator</SelectedDevice>
     <ActiveDebugProfile>Android Emulator</ActiveDebugProfile>
+    <ProjectView>ProjectFiles</ProjectView>
   </PropertyGroup>
 </Project>
