@@ -54,9 +54,7 @@
     <Compile Include="Component\SpinnerCustomX.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SpinnerCustomObjV4.cs" />
-    <Compile Include="SpinnerCustomObjV7.cs" />
-    <Compile Include="SpinnerCustomObjX.cs" />
+    <Compile Include="SpinnerCustomObj.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />

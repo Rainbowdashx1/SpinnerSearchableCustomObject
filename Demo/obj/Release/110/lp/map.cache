@@ -76,3 +76,7 @@ androidx.appcompat.appcompat.aar
 com.google.android.material.material.aar
 androidx.browser.browser.aar
 androidx.lifecycle.lifecycle-livedata.aar
+Xamarin.AndroidX.Legacy.Support.V4.dll
+Xamarin.AndroidX.Media.dll
+androidx.media.media.aar
+androidx.legacy.legacy-support-v4.aar

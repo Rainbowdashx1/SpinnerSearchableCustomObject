@@ -1,15 +1,9 @@
 Demo.MainActivity, Demo;crc6433b778fe73d844da.MainActivity
 Demo.MainActivity;crc6433b778fe73d844da.MainActivity
 demo.MainActivity;crc6433b778fe73d844da.MainActivity
-SpinnerCustomObject.SpinnerCustomObjV4, SpinnerCustomObject;crc6431d683e69a9f25c8.SpinnerCustomObjV4
-SpinnerCustomObject.SpinnerCustomObjV4;crc6431d683e69a9f25c8.SpinnerCustomObjV4
-spinnercustomobject.SpinnerCustomObjV4;crc6431d683e69a9f25c8.SpinnerCustomObjV4
-SpinnerCustomObject.SpinnerCustomObjV7, SpinnerCustomObject;crc6431d683e69a9f25c8.SpinnerCustomObjV7
-SpinnerCustomObject.SpinnerCustomObjV7;crc6431d683e69a9f25c8.SpinnerCustomObjV7
-spinnercustomobject.SpinnerCustomObjV7;crc6431d683e69a9f25c8.SpinnerCustomObjV7
-SpinnerCustomObject.SpinnerCustomObjX, SpinnerCustomObject;crc6431d683e69a9f25c8.SpinnerCustomObjX
-SpinnerCustomObject.SpinnerCustomObjX;crc6431d683e69a9f25c8.SpinnerCustomObjX
-spinnercustomobject.SpinnerCustomObjX;crc6431d683e69a9f25c8.SpinnerCustomObjX
+SpinnerCustomObject.SpinnerCustomObj, SpinnerCustomObject;crc6431d683e69a9f25c8.SpinnerCustomObj
+SpinnerCustomObject.SpinnerCustomObj;crc6431d683e69a9f25c8.SpinnerCustomObj
+spinnercustomobject.SpinnerCustomObj;crc6431d683e69a9f25c8.SpinnerCustomObj
 SpinnerCustomObject.Component.SpinnerCustomV4, SpinnerCustomObject;crc6406bc3e432db49485.SpinnerCustomV4
 SpinnerCustomObject.Component.SpinnerCustomV4;crc6406bc3e432db49485.SpinnerCustomV4
 spinnercustomobject.component.SpinnerCustomV4;crc6406bc3e432db49485.SpinnerCustomV4
@@ -796,6 +790,75 @@ mono.androidx.loader.content.Loader_OnLoadCompleteListenerImplementor;mono.andro
 AndroidX.Loader.App.LoaderManager+ILoaderCallbacks, Xamarin.AndroidX.Loader;androidx.loader.app.LoaderManager$LoaderCallbacks
 AndroidX.Loader.App.LoaderManager.ILoaderCallbacks;androidx.loader.app.LoaderManager$LoaderCallbacks
 androidx.loader.app.LoaderManager$LoaderCallbacks;androidx.loader.app.LoaderManager$LoaderCallbacks
+AndroidX.Media.AudioAttributesCompat+IAttributeContentType, Xamarin.AndroidX.Media;androidx.media.AudioAttributesCompat$AttributeContentType
+AndroidX.Media.AudioAttributesCompat.IAttributeContentType;androidx.media.AudioAttributesCompat$AttributeContentType
+androidx.media.AudioAttributesCompat$AttributeContentType;androidx.media.AudioAttributesCompat$AttributeContentType
+AndroidX.Media.AudioAttributesCompat+IAttributeUsage, Xamarin.AndroidX.Media;androidx.media.AudioAttributesCompat$AttributeUsage
+AndroidX.Media.AudioAttributesCompat.IAttributeUsage;androidx.media.AudioAttributesCompat$AttributeUsage
+androidx.media.AudioAttributesCompat$AttributeUsage;androidx.media.AudioAttributesCompat$AttributeUsage
+AndroidX.Media.AudioFocusRequestCompat+IFocusGainType, Xamarin.AndroidX.Media;androidx.media.AudioFocusRequestCompat$FocusGainType
+AndroidX.Media.AudioFocusRequestCompat.IFocusGainType;androidx.media.AudioFocusRequestCompat$FocusGainType
+androidx.media.AudioFocusRequestCompat$FocusGainType;androidx.media.AudioFocusRequestCompat$FocusGainType
+AndroidX.Media.VolumeProviderCompat+IControlType, Xamarin.AndroidX.Media;androidx.media.VolumeProviderCompat$ControlType
+AndroidX.Media.VolumeProviderCompat.IControlType;androidx.media.VolumeProviderCompat$ControlType
+androidx.media.VolumeProviderCompat$ControlType;androidx.media.VolumeProviderCompat$ControlType
+Android.Support.V4.Media.MediaBrowserCompat+ConnectionCallback+IConnectionCallbackInternal, Xamarin.AndroidX.Media;android.support.v4.media.MediaBrowserCompat$ConnectionCallback$ConnectionCallbackInternal
+Android.Support.V4.Media.MediaBrowserCompat.ConnectionCallback.IConnectionCallbackInternal;android.support.v4.media.MediaBrowserCompat$ConnectionCallback$ConnectionCallbackInternal
+android.support.v4.media.MediaBrowserCompat$ConnectionCallback$ConnectionCallbackInternal;android.support.v4.media.MediaBrowserCompat$ConnectionCallback$ConnectionCallbackInternal
+Android.Support.V4.Media.MediaBrowserCompat+MediaItem+IFlags, Xamarin.AndroidX.Media;android.support.v4.media.MediaBrowserCompat$MediaItem$Flags
+Android.Support.V4.Media.MediaBrowserCompat.MediaItem.IFlags;android.support.v4.media.MediaBrowserCompat$MediaItem$Flags
+android.support.v4.media.MediaBrowserCompat$MediaItem$Flags;android.support.v4.media.MediaBrowserCompat$MediaItem$Flags
+Android.Support.V4.Media.MediaMetadataCompat+IBitmapKey, Xamarin.AndroidX.Media;android.support.v4.media.MediaMetadataCompat$BitmapKey
+Android.Support.V4.Media.MediaMetadataCompat.IBitmapKey;android.support.v4.media.MediaMetadataCompat$BitmapKey
+android.support.v4.media.MediaMetadataCompat$BitmapKey;android.support.v4.media.MediaMetadataCompat$BitmapKey
+Android.Support.V4.Media.MediaMetadataCompat+ILongKey, Xamarin.AndroidX.Media;android.support.v4.media.MediaMetadataCompat$LongKey
+Android.Support.V4.Media.MediaMetadataCompat.ILongKey;android.support.v4.media.MediaMetadataCompat$LongKey
+android.support.v4.media.MediaMetadataCompat$LongKey;android.support.v4.media.MediaMetadataCompat$LongKey
+Android.Support.V4.Media.MediaMetadataCompat+IRatingKey, Xamarin.AndroidX.Media;android.support.v4.media.MediaMetadataCompat$RatingKey
+Android.Support.V4.Media.MediaMetadataCompat.IRatingKey;android.support.v4.media.MediaMetadataCompat$RatingKey
+android.support.v4.media.MediaMetadataCompat$RatingKey;android.support.v4.media.MediaMetadataCompat$RatingKey
+Android.Support.V4.Media.MediaMetadataCompat+ITextKey, Xamarin.AndroidX.Media;android.support.v4.media.MediaMetadataCompat$TextKey
+Android.Support.V4.Media.MediaMetadataCompat.ITextKey;android.support.v4.media.MediaMetadataCompat$TextKey
+android.support.v4.media.MediaMetadataCompat$TextKey;android.support.v4.media.MediaMetadataCompat$TextKey
+Android.Support.V4.Media.RatingCompat+IStarStyle, Xamarin.AndroidX.Media;android.support.v4.media.RatingCompat$StarStyle
+Android.Support.V4.Media.RatingCompat.IStarStyle;android.support.v4.media.RatingCompat$StarStyle
+android.support.v4.media.RatingCompat$StarStyle;android.support.v4.media.RatingCompat$StarStyle
+Android.Support.V4.Media.RatingCompat+IStyle, Xamarin.AndroidX.Media;android.support.v4.media.RatingCompat$Style
+Android.Support.V4.Media.RatingCompat.IStyle;android.support.v4.media.RatingCompat$Style
+android.support.v4.media.RatingCompat$Style;android.support.v4.media.RatingCompat$Style
+Android.Support.V4.Media.Session.IMediaControllerCallback, Xamarin.AndroidX.Media;android.support.v4.media.session.IMediaControllerCallback
+Android.Support.V4.Media.Session.IMediaControllerCallback;android.support.v4.media.session.IMediaControllerCallback
+android.support.v4.media.session.IMediaControllerCallback;android.support.v4.media.session.IMediaControllerCallback
+Android.Support.V4.Media.Session.IMediaSession, Xamarin.AndroidX.Media;android.support.v4.media.session.IMediaSession
+Android.Support.V4.Media.Session.IMediaSession;android.support.v4.media.session.IMediaSession
+android.support.v4.media.session.IMediaSession;android.support.v4.media.session.IMediaSession
+Android.Support.V4.Media.Session.MediaSessionCompat+IOnActiveChangeListener, Xamarin.AndroidX.Media;android.support.v4.media.session.MediaSessionCompat$OnActiveChangeListener
+Android.Support.V4.Media.Session.MediaSessionCompat.IOnActiveChangeListener;android.support.v4.media.session.MediaSessionCompat$OnActiveChangeListener
+android.support.v4.media.session.MediaSessionCompat$OnActiveChangeListener;android.support.v4.media.session.MediaSessionCompat$OnActiveChangeListener
+Android.Support.V4.Media.Session.MediaSessionCompat+IOnActiveChangeListenerImplementor, Xamarin.AndroidX.Media;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat.IOnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat+ISessionFlags, Xamarin.AndroidX.Media;android.support.v4.media.session.MediaSessionCompat$SessionFlags
+Android.Support.V4.Media.Session.MediaSessionCompat.ISessionFlags;android.support.v4.media.session.MediaSessionCompat$SessionFlags
+android.support.v4.media.session.MediaSessionCompat$SessionFlags;android.support.v4.media.session.MediaSessionCompat$SessionFlags
+Android.Support.V4.Media.Session.PlaybackStateCompat+IActions, Xamarin.AndroidX.Media;android.support.v4.media.session.PlaybackStateCompat$Actions
+Android.Support.V4.Media.Session.PlaybackStateCompat.IActions;android.support.v4.media.session.PlaybackStateCompat$Actions
+android.support.v4.media.session.PlaybackStateCompat$Actions;android.support.v4.media.session.PlaybackStateCompat$Actions
+Android.Support.V4.Media.Session.PlaybackStateCompat+IErrorCode, Xamarin.AndroidX.Media;android.support.v4.media.session.PlaybackStateCompat$ErrorCode
+Android.Support.V4.Media.Session.PlaybackStateCompat.IErrorCode;android.support.v4.media.session.PlaybackStateCompat$ErrorCode
+android.support.v4.media.session.PlaybackStateCompat$ErrorCode;android.support.v4.media.session.PlaybackStateCompat$ErrorCode
+Android.Support.V4.Media.Session.PlaybackStateCompat+IMediaKeyAction, Xamarin.AndroidX.Media;android.support.v4.media.session.PlaybackStateCompat$MediaKeyAction
+Android.Support.V4.Media.Session.PlaybackStateCompat.IMediaKeyAction;android.support.v4.media.session.PlaybackStateCompat$MediaKeyAction
+android.support.v4.media.session.PlaybackStateCompat$MediaKeyAction;android.support.v4.media.session.PlaybackStateCompat$MediaKeyAction
+Android.Support.V4.Media.Session.PlaybackStateCompat+IRepeatMode, Xamarin.AndroidX.Media;android.support.v4.media.session.PlaybackStateCompat$RepeatMode
+Android.Support.V4.Media.Session.PlaybackStateCompat.IRepeatMode;android.support.v4.media.session.PlaybackStateCompat$RepeatMode
+android.support.v4.media.session.PlaybackStateCompat$RepeatMode;android.support.v4.media.session.PlaybackStateCompat$RepeatMode
+Android.Support.V4.Media.Session.PlaybackStateCompat+IShuffleMode, Xamarin.AndroidX.Media;android.support.v4.media.session.PlaybackStateCompat$ShuffleMode
+Android.Support.V4.Media.Session.PlaybackStateCompat.IShuffleMode;android.support.v4.media.session.PlaybackStateCompat$ShuffleMode
+android.support.v4.media.session.PlaybackStateCompat$ShuffleMode;android.support.v4.media.session.PlaybackStateCompat$ShuffleMode
+Android.Support.V4.Media.Session.PlaybackStateCompat+IState, Xamarin.AndroidX.Media;android.support.v4.media.session.PlaybackStateCompat$State
+Android.Support.V4.Media.Session.PlaybackStateCompat.IState;android.support.v4.media.session.PlaybackStateCompat$State
+android.support.v4.media.session.PlaybackStateCompat$State;android.support.v4.media.session.PlaybackStateCompat$State
 AndroidX.Print.PrintHelper+IOnPrintFinishCallback, Xamarin.AndroidX.Print;androidx.print.PrintHelper$OnPrintFinishCallback
 AndroidX.Print.PrintHelper.IOnPrintFinishCallback;androidx.print.PrintHelper$OnPrintFinishCallback
 androidx.print.PrintHelper$OnPrintFinishCallback;androidx.print.PrintHelper$OnPrintFinishCallback

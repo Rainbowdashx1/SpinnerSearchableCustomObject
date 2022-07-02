@@ -78,3 +78,4 @@ C:\Users\Pablo\source\repos\SpinnerSearchableCustomObject\SpinnerCustomObject\ob
 C:\Users\Pablo\source\repos\SpinnerSearchableCustomObject\SpinnerCustomObject\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
 C:\Users\Pablo\source\repos\SpinnerSearchableCustomObject\SpinnerCustomObject\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
 C:\Users\Pablo\source\repos\SpinnerSearchableCustomObject\SpinnerCustomObject\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Pablo\source\repos\SpinnerSearchableCustomObject\SpinnerCustomObject\obj\Debug\90\SpinnerCustomObject.csproj.AssemblyReference.cache

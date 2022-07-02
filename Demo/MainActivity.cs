@@ -14,7 +14,7 @@ namespace Demo
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
-        SpinnerCustomObject.SpinnerCustomObjX SCOX;
+        SpinnerCustomObject.SpinnerCustomObj SCOX;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -36,7 +36,7 @@ namespace Demo
             Objt.Add(new ObjetoTest { Dato1 = "E", Dato2 = "DATA2", Dato3 = "DATA3", Dato4 = "DATA4", Dato5 = "DATA5" });
 
 
-            SCOX = FindViewById<SpinnerCustomObject.SpinnerCustomObjX>(Resource.Id.spiner1);
+            SCOX = FindViewById<SpinnerCustomObject.SpinnerCustomObj>(Resource.Id.spiner1);
 
             SCOX.SetData(this.SupportFragmentManager, Objt);
         }

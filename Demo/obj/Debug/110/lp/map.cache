@@ -19,6 +19,7 @@ Xamarin.AndroidX.Fragment.dll
 Xamarin.AndroidX.Interpolator.dll
 Xamarin.AndroidX.Legacy.Support.Core.UI.dll
 Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+Xamarin.AndroidX.Legacy.Support.V4.dll
 Xamarin.AndroidX.Lifecycle.Common.dll
 Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
 Xamarin.AndroidX.Lifecycle.LiveData.dll
@@ -27,6 +28,7 @@ Xamarin.AndroidX.Lifecycle.ViewModel.dll
 Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
 Xamarin.AndroidX.Loader.dll
 Xamarin.AndroidX.LocalBroadcastManager.dll
+Xamarin.AndroidX.Media.dll
 Xamarin.AndroidX.MultiDex.dll
 Xamarin.AndroidX.Print.dll
 Xamarin.AndroidX.RecyclerView.dll
@@ -75,4 +77,6 @@ androidx.appcompat.appcompat-resources.aar
 androidx.appcompat.appcompat.aar
 com.google.android.material.material.aar
 androidx.browser.browser.aar
+androidx.media.media.aar
 androidx.lifecycle.lifecycle-livedata.aar
+androidx.legacy.legacy-support-v4.aar
